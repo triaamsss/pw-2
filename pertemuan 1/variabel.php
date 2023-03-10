@@ -2,6 +2,6 @@
 $nama_Lengkap = "tria";
 
 //memanggil variabel
-echo 'hai, nama saya maul   ' . $nama_Lengkap;
+echo 'hai, nama saya  ' . $nama_Lengkap;
 
 ?>
