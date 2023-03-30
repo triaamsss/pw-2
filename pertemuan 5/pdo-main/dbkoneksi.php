@@ -1,8 +1,8 @@
 <?php 
   $host = 'localhost';
-  $db = 'dbkoperasi';
-  $user = 'root';
-  $pass = '';
+  $db = 'dbpos';
+  $user = 'siswa1';
+  $pass = '123456';
   $charset='utf8mb4';
 
   $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
@@ -14,3 +14,5 @@
   ];
 
   $dbh =  new PDO($dsn,$user,$pass,$opt);
+
+?>

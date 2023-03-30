@@ -38,8 +38,8 @@ require_once 'dbkoneksi.php';
                         <i class="fa fa-arrowp-circle-o-left"></i>
                     </div>
                 </div>
-                <input id="jk" name="jk" value="L" type="radio" class="Laki-laki">
-                <input id="jk" name="jk" value="P" type="radio" class="Perempuan">
+                <input id="jk" name="jk" value="L" type="radio" class="form-control">Laki laki
+                <input id="jk" name="jk" value="P" type="radio" class="form-control">Perempuan
             </div>
         </div>
     </div>
